@@ -10,10 +10,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
@@ -31,10 +27,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Churrascômetro é um projeto que mostra a quantidade de carnes, bebidas que deve comprar de acordo com a quantidade de pessoas e a duração.
-
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
